@@ -1,7 +1,7 @@
 Redis 기초
 ==
 
-** Redis의 주요 특징 **
+**Redis의 주요 특징**
 --
 > Redis(Remote Dictionary Server) 는 오픈소스 NoSql로서 key-value 타입의 저장소로 주요 특징은 다음과 같습니다.   
 
